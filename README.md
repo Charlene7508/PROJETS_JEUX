@@ -6,7 +6,6 @@ Chaque projet garde son propre README détaillé (installation, choix techniques
 
 ---
 
-## 📂 Projets
 
 ### [`MAZE - Générateur de labyrinthes`](./MAZE%20-%20G%C3%A9n%C3%A9rateur%20de%20labyrinthes)
 <img width="1016" height="615"  alt="Aperçu du labyrinthe" src="https://github.com/user-attachments/assets/6ab04ece-fe53-4224-99ca-384482fc6b34" />
