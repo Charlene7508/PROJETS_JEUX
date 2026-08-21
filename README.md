@@ -1,4 +1,6 @@
-# 🎮 Games
+<div align="center">
+
+# 🎮 GAMES
 
 **Petits jeux et outils de génération procédurale développés en solo, pour approfondir des notions d'algorithmique et de programmation.**
 
